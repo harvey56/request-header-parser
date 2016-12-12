@@ -1,0 +1,17 @@
+{
+  "name": "request-header-parser",
+  "version": "0.0.0",
+  "description": "A request header parser API, using Express and Node",
+  "main": "server.js",
+  "author": "Harvey Leon <hervel56@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.2.6",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
